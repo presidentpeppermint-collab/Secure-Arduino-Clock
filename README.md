@@ -1,8 +1,8 @@
 
 
-#⚠️Warning This entire project is in C++ do not edit unless you know C++. 
+⚠️Warning This entire project is in C++ do not edit unless you know C++. 
 
-#-Good luck PresidentPeppermint
+-Good luck PresidentPeppermint
 
 # Secure Arduino Clock — RFID Access Panel
 
