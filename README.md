@@ -1,3 +1,9 @@
+
+
+#⚠️Warning This entire project is in C++ do not edit unless you know C++. 
+
+#-Good luck PresidentPeppermint
+
 # Secure Arduino Clock — RFID Access Panel
 
 An RFID-locked clock display built on an Arduino Uno R4 WiFi. Scan an authorized card to unlock the display and show the live time (synced automatically over WiFi). Scan an unauthorized card and it gets rejected with a buzz.
